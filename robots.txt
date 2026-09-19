@@ -1,3 +1,4 @@
 User-agent: *
-Disallow:
+Allow: /
+
 Sitemap: https://jornadadeagroecologia.com.br/sitemap.xml
